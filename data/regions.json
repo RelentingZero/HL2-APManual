@@ -1,0 +1,247 @@
+{
+  "\"A Red Letter Day\"": {
+    "starting": true,
+    "connects_to": [
+      "Water Hazard",
+      "Black Mesa East",
+      "\"We Don't Go To Ravenholm...\"",
+      "Highway 17",
+      "Sandtraps",
+      "Nova Prospekt",
+      "Entanglement",
+      "Anticitizen One",
+      "\"Follow Freeman!\"",
+      "Our Benefactors",
+      "Dark Energy",
+      "Direct Intervention",
+      "Lowlife",
+      "Urban Flight",
+      "Exit 17",
+      "To The White Forest",
+      "This Vortal Coil",
+      "Freeman Pontifex",
+      "Riding Shotgun",
+      "Under The Radar",
+      "Our Mutual Fiend",
+      "T-Minus One"
+    ],
+    "requires": "|\"A Red Letter Day\"|"
+  },
+  "Route Kanal ": {
+    "starting": true,
+    "connects_to": [
+      "Water Hazard",
+      "Black Mesa East",
+      "\"We Don't Go To Ravenholm...\"",
+      "Highway 17",
+      "Sandtraps",
+      "Nova Prospekt",
+      "Entanglement",
+      "Anticitizen One",
+      "\"Follow Freeman!\"",
+      "Our Benefactors",
+      "Dark Energy",
+      "Direct Intervention",
+      "Lowlife",
+      "Urban Flight",
+      "Exit 17",
+      "To The White Forest",
+      "This Vortal Coil",
+      "Freeman Pontifex",
+      "Riding Shotgun",
+      "Under The Radar",
+      "Our Mutual Fiend",
+      "T-Minus One"
+    ],
+    "requires": "|Route Kanal|"
+  },
+  "Water Hazard": {
+    "starting": false,
+    "connects_to": [],
+    "requires": "|Water Hazard| AND |@Early Weapon (HL2):2|"
+  },
+  "Black Mesa East": {
+    "connects_to": [
+      "Water Hazard",
+      "Black Mesa East",
+      "\"We Don't Go To Ravenholm...\"",
+      "Highway 17",
+      "Sandtraps",
+      "Nova Prospekt",
+      "Entanglement",
+      "Anticitizen One",
+      "\"Follow Freeman!\"",
+      "Our Benefactors",
+      "Dark Energy",
+      "Direct Intervention",
+      "Lowlife",
+      "Urban Flight",
+      "Exit 17",
+      "To The White Forest",
+      "This Vortal Coil",
+      "Freeman Pontifex",
+      "Riding Shotgun",
+      "Under The Radar",
+      "Our Mutual Fiend",
+      "T-Minus One"
+    ],
+    "requires": "|Black Mesa East|",
+    "starting": true
+  },
+  "\"We Don't Go To Ravenholm...\"": {
+    "connects_to": [],
+    "requires": "|\"We Don't Go To Ravenholm...\"| AND (|@Early Weapon (HL2):2) OR (|@Mid Game Weapon (HL2):1|)"
+  },
+  "Highway 17": {
+    "connects_to": [],
+    "requires": "|Highway 17| AND (|@Early Weapon (HL2):2|) OR (|@Mid Game Weapon (HL2):2|)"
+  },
+  "Sandtraps": {
+    "connects_to": [],
+    "requires": "|Sandtraps| AND (|@Early Weapon (HL2):2|) OR (|@Mid Game Weapon (HL2):2| OR |@Late Game Weapon (HL2):1|)"
+  },
+  "Nova Prospekt": {
+    "connects_to": [],
+    "requires": "|Nova Prospekt| AND (|@Early Weapon (HL2):2|) AND (|@Mid Game Weapon (HL2):2| OR @Late Game Weapon (HL2):1|)"
+  },
+  "Entanglement": {
+    "connects_to": [],
+    "requires": "|Entanglement| AND (|@Early Weapon (HL2):3|) AND (|@Mid Game Weapon (HL2):2| OR @Late Game Weapon (HL2):1|)"
+  },
+  "Anticitizen One": {
+    "connects_to": [],
+    "requires": "|Anticitizen One| AND (|@Early Weapon (HL2):3|) AND (|@Mid Game Weapon (HL2):2| OR @Late Game Weapon (HL2):2|)"
+  },
+  "\"Follow Freeman!\"": {
+    "connects_to": [],
+    "requires": "|\"Follow Freeman!\"| AND (|@Early Weapon (HL2):3|) AND (|@Mid Game Weapon (HL2):2| OR @Late Game Weapon (HL2):2|)"
+  },
+  "Our Benefactors": {
+    "connects_to": [
+      "Water Hazard",
+      "Black Mesa East",
+      "\"We Don't Go To Ravenholm...\"",
+      "Highway 17",
+      "Sandtraps",
+      "Nova Prospekt",
+      "Entanglement",
+      "Anticitizen One",
+      "\"Follow Freeman!\"",
+      "Our Benefactors",
+      "Dark Energy",
+      "Direct Intervention",
+      "Lowlife",
+      "Urban Flight",
+      "Exit 17",
+      "To The White Forest",
+      "This Vortal Coil",
+      "Freeman Pontifex",
+      "Riding Shotgun",
+      "Under The Radar",
+      "Our Mutual Fiend",
+      "T-Minus One"
+    ],
+    "requires": "|Our Benefactors|",
+    "starting": true
+  },
+  "Dark Energy": {
+    "connects_to": [],
+    "requires": "|Dark Energy| AND (|@Early Weapon (HL2):2| OR |@Mid Game Weapon (HL2):2| OR |@Late Game Weapon (HL2):1|)"
+  },
+  "Undue Alarm": {
+    "starting": true,
+    "connects_to": [
+      "Water Hazard",
+      "Black Mesa East",
+      "\"We Don't Go To Ravenholm...\"",
+      "Highway 17",
+      "Sandtraps",
+      "Nova Prospekt",
+      "Entanglement",
+      "Anticitizen One",
+      "\"Follow Freeman!\"",
+      "Our Benefactors",
+      "Dark Energy",
+      "Direct Intervention",
+      "Lowlife",
+      "Urban Flight",
+      "Exit 17",
+      "To The White Forest",
+      "This Vortal Coil",
+      "Freeman Pontifex",
+      "Riding Shotgun",
+      "Under The Radar",
+      "Our Mutual Fiend",
+      "T-Minus One"
+    ],
+    "requires": "|Undue Alarm|"
+  },
+  "Direct Intervention": {
+    "connects_to": [],
+    "requires": "|Direct Intervention| AND (|@Early Weapon (EP1):1|)"
+  },
+  "Lowlife": {
+    "connects_to": [],
+    "requires": "|Lowlife| AND (|@Early Weapon (EP1):2|) AND (|@Mid Game Weapon (EP1):1| OR |@Late Game Weapon (EP1):1|)"
+  },
+  "Urban Flight": {
+    "connects_to": [],
+    "requires": "|Urban Flight| AND (|@Early Weapon (EP1):2| AND (|@Mid Game Weapon (EP1):2| OR |@Late Game Weapon (EP1):1|)"
+  },
+  "Exit 17": {
+    "connects_to": [],
+    "requires": "|Exit 17| AND (|@Early Weapon (EP1):2| AND (|@Mid Game Weapon (EP1):2| OR |@Late Game Weapon (EP1):1|)"
+  },
+  "To The White Forest": {
+    "connects_to": [
+      "Water Hazard",
+      "Black Mesa East",
+      "\"We Don't Go To Ravenholm...\"",
+      "Highway 17",
+      "Sandtraps",
+      "Nova Prospekt",
+      "Entanglement",
+      "Anticitizen One",
+      "\"Follow Freeman!\"",
+      "Our Benefactors",
+      "Dark Energy",
+      "Direct Intervention",
+      "Lowlife",
+      "Urban Flight",
+      "Exit 17",
+      "To The White Forest",
+      "This Vortal Coil",
+      "Freeman Pontifex",
+      "Riding Shotgun",
+      "Under The Radar",
+      "Our Mutual Fiend",
+      "T-Minus One"
+    ],
+    "requires": "|To The White Forest|",
+    "starting": true
+  },
+  "This Vortal Coil": {
+    "connects_to": [],
+    "requires": "|This Vortal Coil| AND (|@Early Weapon (EP2):2| "
+  },
+  "Freeman Pontifex": {
+    "connects_to": [],
+    "requires": "|Freeman Pontifex| AND (|@Early Weapon (EP2):2|) AND (|@Mid Game Weapon (EP2):1|"
+  },
+  "Riding Shotgun": {
+    "connects_to": [],
+    "requires": "|Riding Shotgun| AND (|@Early Weapon (EP2):2|) AND (|@Mid Game Weapon (EP2):1|)"
+  },
+  "Under The Radar": {
+    "connects_to": [],
+    "requires": "|Under The Radar| AND (|@Early Weapon (EP2):2|) AND (|@Mid Game Weapon (EP2):2| OR |@Late Game Weapon (EP2):1|)"
+  },
+  "Our Mutual Fiend": {
+    "connects_to": [],
+    "requires": "|Our Mutual Fiend| AND (|@Early Weapon (EP2):2|) AND (|@Mid Game Weapon (EP2):3| OR |@Late Game Weapon (EP2):2|)"
+  },
+  "T-Minus One": {
+    "connects_to": [],
+    "requires": "|T-Minus One|"
+  }
+}

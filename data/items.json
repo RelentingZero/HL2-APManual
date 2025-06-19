@@ -1,0 +1,497 @@
+[
+  {
+    "count": 1,
+    "name": "Visual Storytelling Trap",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "\"A Red Letter Day\"",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Route Kanal",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Water Hazard",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Black Mesa East",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Highway 17",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sandtraps",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nova Prospekt",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Entanglement",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Anticitizen One",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "\"Follow Freeman!\"",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Our Benefactors",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dark Energy",
+    "category": [
+      "Chapter",
+      "Goal"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Undue Alarm",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Direct Intervention",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lowlife",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Urban Flight",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Exit 17",
+    "category": [
+      "Chapter",
+      "Goal"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "To The White Forest",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "This Vortal Coil",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Freeman Pontifex",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Riding Shotgun",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Under The Radar",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Our Mutual Fiend",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "T-Minus One",
+    "category": [
+      "Chapter",
+      "Goal"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crowbar (HL2)",
+    "category": [
+      "Weapon",
+      "Early Weapon (HL2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gravity Gun (HL2)",
+    "category": [
+      "Weapon",
+      "Early Weapon (HL2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pistol (HL2)",
+    "category": [
+      "Weapon",
+      "Early Weapon (HL2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Revolver (HL2)",
+    "category": [
+      "Weapon",
+      "Early Weapon (HL2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SMG (HL2)",
+    "category": [
+      "Weapon",
+      "Mid Game Weapon (HL2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shotgun (HL2)",
+    "category": [
+      "Weapon",
+      "Mid Game Weapon (HL2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crossbow (HL2)",
+    "category": [
+      "Weapon",
+      "Late Game Weapon (HL2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "AR2 (HL2)",
+    "category": [
+      "Weapon",
+      "Late Game Weapon (HL2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grenades (HL2)",
+    "category": [
+      "Weapon",
+      "Mid Game Weapon (HL2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "RPG (HL2)",
+    "category": [
+      "Weapon",
+      "Late Game Weapon (HL2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bugbait",
+    "category": [
+      "Weapon",
+      "Mid Game Weapon (HL2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crowbar (EP1)",
+    "category": [
+      "Weapon",
+      "Early Weapon (EP1)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gravity Gun (EP1)",
+    "category": [
+      "Weapon",
+      "Early Weapon (EP1)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pistol (EP1)",
+    "category": [
+      "Weapon",
+      "Early Weapon (EP1)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Revolver (EP1)",
+    "category": [
+      "Weapon",
+      "Early Weapon (HL2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SMG (EP1)",
+    "category": [
+      "Weapon",
+      "Mid Game Weapon (EP1)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "AR2 (EP1)",
+    "category": [
+      "Weapon",
+      "Late Game Weapon (EP1)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shotgun (EP1)",
+    "category": [
+      "Weapon",
+      "Mid Game Weapon (EP1)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crossbow (EP1)",
+    "category": [
+      "Weapon",
+      "Late Game Weapon (EP1)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grenades (EP1)",
+    "category": [
+      "Weapon",
+      "Mid Game Weapon (EP1)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "RPG (EP1)",
+    "category": [
+      "Weapon",
+      "Late Game Weapon (EP1)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crowbar (EP2)",
+    "category": [
+      "Weapon",
+      "Early Weapon (EP2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gravity Gun (EP2)",
+    "category": [
+      "Weapon",
+      "Early Weapon (EP2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pistol (EP2)",
+    "category": [
+      "Weapon",
+      "Early Weapon (EP2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Revolver (EP2)",
+    "category": [
+      "Weapon",
+      "Early Weapon (EP2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SMG (EP2)",
+    "category": [
+      "Weapon",
+      "Mid Game Weapon (EP2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "AR2 (EP2)",
+    "category": [
+      "Weapon",
+      "Late Game Weapon (EP2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shotgun (EP2)",
+    "category": [
+      "Weapon",
+      "Mid Game Weapon (EP2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crossbow (EP2)",
+    "category": [
+      "Weapon",
+      "Late Game Weapon (EP2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grenades (EP2)",
+    "category": [
+      "Weapon",
+      "Mid Game Weapon (EP2)"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "RPG (EP2)",
+    "category": [
+      "Weapon",
+      "Late Game Weapon (EP2)"
+    ],
+    "progression": true
+  }
+]

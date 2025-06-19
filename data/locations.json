@@ -1,0 +1,2380 @@
+[
+  {
+    "category": [
+      "\"A Red Letter Day\""
+    ],
+    "requires": "|\"A Red Letter Day\"|",
+    "name": "(RLD) Lambda Symbol Near Vending Machine",
+    "region": "\"A Red Letter Day\""
+  },
+  {
+    "name": "(RLD) H.E.V. Suit Pickup",
+    "region": "\"A Red Letter Day\"",
+    "category": [
+      "\"A Red Letter Day\""
+    ],
+    "requires": "|\"A Red Letter Day\"|"
+  },
+  {
+    "name": "(RLD) Combine Charger",
+    "region": "\"A Red Letter Day\"",
+    "category": [
+      "\"A Red Letter Day\""
+    ],
+    "requires": "|\"A Red Letter Day\"|"
+  },
+  {
+    "name": "(RLD) Crowbar Pickup",
+    "region": "\"A Red Letter Day\"",
+    "category": [
+      "\"A Red Letter Day\""
+    ],
+    "requires": "|\"A Red Letter Day\"|"
+  },
+  {
+    "name": "(RLD) Escaped Train Yard Ambush",
+    "region": "\"A Red Letter Day\"",
+    "category": [
+      "\"A Red Letter Day\""
+    ],
+    "requires": "|\"A Red Letter Day\"|"
+  },
+  {
+    "name": "(RK) Health Station Near Stairs",
+    "region": "Route Kanal ",
+    "category": [
+      "Route Kanal"
+    ],
+    "requires": "|Route Kanal|"
+  },
+  {
+    "name": "(RK) Lambda Cache In Abandoned House",
+    "region": "Route Kanal ",
+    "category": [
+      "Route Kanal"
+    ],
+    "requires": "|Route Kanal|"
+  },
+  {
+    "name": "(RK) Lambda Cache In Vent",
+    "region": "Route Kanal ",
+    "category": [
+      "Route Kanal"
+    ],
+    "requires": "|Route Kanal|"
+  },
+  {
+    "name": "(RK) Health Station After Exploding Barrel Trap",
+    "region": "Route Kanal ",
+    "category": [
+      "Route Kanal"
+    ],
+    "requires": "|Route Kanal|"
+  },
+  {
+    "name": "(RK) Lambda Cache After Turret Section",
+    "region": "Route Kanal ",
+    "category": [
+      "Route Kanal"
+    ],
+    "requires": "|Route Kanal|"
+  },
+  {
+    "name": "(RK) Lambda Cache Under Gantry",
+    "region": "Route Kanal ",
+    "category": [
+      "Route Kanal"
+    ],
+    "requires": "|Route Kanal|"
+  },
+  {
+    "name": "(RK) Lambda Cache Near Steam Pipe",
+    "region": "Route Kanal ",
+    "category": [
+      "Route Kanal"
+    ],
+    "requires": "|Route Kanal|"
+  },
+  {
+    "name": "(RK) Raised Water Level",
+    "region": "Route Kanal ",
+    "category": [
+      "Route Kanal"
+    ],
+    "requires": "|Route Kanal|"
+  },
+  {
+    "name": "(RK) Lambda Cache Past Makeshift Bridge",
+    "region": "Route Kanal ",
+    "category": [
+      "Route Kanal"
+    ],
+    "requires": "|Route Kanal|"
+  },
+  {
+    "name": "(RK) Lambda Cache Past Pipe",
+    "region": "Route Kanal ",
+    "category": [
+      "Route Kanal"
+    ],
+    "requires": "|Route Kanal|"
+  },
+  {
+    "name": "(RK) Acquired Airboat",
+    "region": "Route Kanal ",
+    "category": [
+      "Route Kanal"
+    ],
+    "requires": "|Route Kanal|"
+  },
+  {
+    "name": "(RK) Entered Water Hazard",
+    "region": "Route Kanal ",
+    "category": [
+      "Route Kanal"
+    ],
+    "requires": "|Route Kanal|"
+  },
+  {
+    "name": "(WH) Lambda Cache Near Level Entrance",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Red Barn Lambda Cache",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Lambda Cache Inside Open Drainpipe",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Health Station Near Manhacks",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Health Station In Guard Post",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Cleared Out Combine Outpost (1)",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Lambda Cache Past APC",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Weight Puzzle Lambda Cache",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Combine Outpost 2 Revolver Pickup",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Combine Outpost 2 Health Station",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Combine Outpost 2 Suit Charger",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Cleared Out Combine Outpost (2)",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Lambda Cache Under Bridge",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Lambda Cache During Helicopter Chase",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Lambda Cache In Steep Canal",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Airboat Lowering Station Health Station",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Airboat Lowering Station Suit Charger",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Lambda Cache Before Twin Bridges",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Solved Washing Machine Puzzle",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Upgraded Airboat",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Infested Shantytown Lambda Cache",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Destroyed Both APC's ",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Shot Down Hunter Chopper",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Cleared Out Combine Outpost (3)",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(WH) Jumped Airboat",
+    "region": "Water Hazard",
+    "category": [
+      "Water Hazard"
+    ],
+    "requires": "|Water Hazard|"
+  },
+  {
+    "name": "(BME) Lambda Symbol Outside Black Mesa East",
+    "region": "Black Mesa East",
+    "category": [
+      "Black Mesa East"
+    ],
+    "requires": "|Black Mesa East|"
+  },
+  {
+    "name": "(BME) Gravity Gun Pickup",
+    "region": "Black Mesa East",
+    "category": [
+      "Black Mesa East"
+    ],
+    "requires": "|Black Mesa East|",
+    "place_item": [
+      "Gravity Gun (HL2)"
+    ]
+  },
+  {
+    "name": "(BME) Escaped Into Ravenholm",
+    "region": "Black Mesa East",
+    "category": [
+      "Black Mesa East"
+    ],
+    "requires": "|Black Mesa East|"
+  },
+  {
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|",
+    "name": "(DGR) Lambda Cache Near Zombie Fire",
+    "region": "\"We Don't Go To Ravenholm...\""
+  },
+  {
+    "name": "(DGR) Turned Off Electric Fence",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(DGR) Met Father Grigori",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(DGR) Lambda Crash Near Car Traps",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(DGR) Explosive Barrel Stash",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(DGR) Lambda Cache Near Grigori",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(DGR) First Fast Zombie Encounter",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(DGR) Recieved Shotgun From Griori",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(DGR) First Poison Zombie Encounter",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(DGR) Rooftop Outpost Supplies",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(DGR) Survived Cart Holdout",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(DGR) Escaped Ravenholm",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(DGR) Escaped The Mines",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(DGR) Entered Highway 17",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(DGR) Lambda Cache Outside Mines",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(DGR) Picked Up AR2",
+    "region": "\"We Don't Go To Ravenholm...\"",
+    "category": [
+      "\"We Don't Go To Ravenholm...\""
+    ],
+    "requires": "|\"We Don't Go To Ravenholm...\"|"
+  },
+  {
+    "name": "(H17) Lambda Cache Near Tunnel",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17|"
+  },
+  {
+    "name": "(H17) Lambda Cache Near First Thumper",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17|"
+  },
+  {
+    "name": "(H17) Used Binoculars",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17|"
+  },
+  {
+    "name": "(H17) Shot Down Gunship (1)",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(H17) Col. Cubbage RPG Pickup",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17|"
+  },
+  {
+    "name": "(H17) Left NLO",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(H17) Finished Crane Setpiece",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(H17) Jumped Bridge",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(H17) Shot Down Gunship (2)",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(H17) Abandoned Car Lambda Cache",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(H17) Survived Roadside Ambush",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(H17) Roadside Crossbow Pickup",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(H17) Removed Force Field",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(H17) Power Generator Lambda Cache",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(H17) Lambda Cache Near Jagged Rocks",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(H17) Removed Train Tracks Force Field",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(HL2) Shot Down Gunship (3)",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(H17) Force Field Control Room Health Station",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(H17) Force Field Control Room Suit Charger",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(H17) Enter Sandtraps",
+    "region": "Highway 17",
+    "category": [
+      "Highway 17"
+    ],
+    "requires": "|Highway 17| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(S) Raided House Crossbow Pickup",
+    "region": "Sandtraps",
+    "category": [
+      "Sandtraps"
+    ],
+    "requires": "|Sandtraps|"
+  },
+  {
+    "name": "(S) Roadblock Health Station",
+    "region": "Sandtraps",
+    "category": [
+      "Sandtraps"
+    ],
+    "requires": "|Sandtraps|"
+  },
+  {
+    "name": "(S) Windmill Town Lambda Cache",
+    "region": "Sandtraps",
+    "category": [
+      "Sandtraps"
+    ],
+    "requires": "|Sandtraps|"
+  },
+  {
+    "name": "(S) Windmill Town Battery Puzzle",
+    "region": "Sandtraps",
+    "category": [
+      "Sandtraps"
+    ],
+    "requires": "|Sandtraps|"
+  },
+  {
+    "name": "(S) Survived Lighthouse Standoff",
+    "region": "Sandtraps",
+    "category": [
+      "Sandtraps"
+    ],
+    "requires": "|Sandtraps|"
+  },
+  {
+    "name": "(S) Shot Down Gunship (1)",
+    "region": "Sandtraps",
+    "category": [
+      "Sandtraps"
+    ],
+    "requires": "|Sandtraps| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(S) Floor Is Lava Lambda Cache",
+    "region": "Sandtraps",
+    "category": [
+      "Sandtraps"
+    ],
+    "requires": "|Sandtraps|"
+  },
+  {
+    "name": "(S) Acquired Bugbait",
+    "region": "Sandtraps",
+    "category": [
+      "Sandtraps"
+    ],
+    "requires": "|Sandtraps|",
+    "place_item": [
+      "Bugbait"
+    ]
+  },
+  {
+    "name": "(S) Nova Prospekt Exterior Health Station",
+    "region": "Sandtraps",
+    "category": [
+      "Sandtraps"
+    ],
+    "requires": "|Sandtraps|"
+  },
+  {
+    "name": "(S) Nova Prospekt Exterior Suit Charger",
+    "region": "Sandtraps",
+    "category": [
+      "Sandtraps"
+    ],
+    "requires": "|Sandtraps|"
+  },
+  {
+    "name": "(S) Shot Down Gunship (2)",
+    "region": "Sandtraps",
+    "category": [
+      "Sandtraps"
+    ],
+    "requires": "|Sandtraps| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(S) Shot Down Gunship (3)",
+    "region": "Sandtraps",
+    "category": [
+      "Sandtraps"
+    ],
+    "requires": "|Sandtraps| AND |RPG (HL2)|"
+  },
+  {
+    "name": "(S) Entered Nova Prospekt ",
+    "region": "Sandtraps",
+    "category": [
+      "Sandtraps"
+    ],
+    "requires": "|Sandtraps|"
+  },
+  {
+    "name": "(NP) Health Station Near Entrance",
+    "region": "Nova Prospekt",
+    "category": [
+      "Nova Prospekt"
+    ],
+    "requires": "|Nova Prospekt|"
+  },
+  {
+    "name": "(NP) Suit Charger Near Entrance",
+    "region": "Nova Prospekt",
+    "category": [
+      "Nova Prospekt"
+    ],
+    "requires": "|Nova Prospekt|"
+  },
+  {
+    "name": "(NP) Boarded Up Room Lambda Cache",
+    "region": "Nova Prospekt",
+    "category": [
+      "Nova Prospekt"
+    ],
+    "requires": "|Nova Prospekt|"
+  },
+  {
+    "name": "(NP) Killed Antlion Guard (1)",
+    "region": "Nova Prospekt",
+    "category": [
+      "Nova Prospekt"
+    ],
+    "requires": "|Nova Prospekt|"
+  },
+  {
+    "name": "(NP) Cell Lambda Cache",
+    "region": "Nova Prospekt",
+    "category": [
+      "Nova Prospekt"
+    ],
+    "requires": "|Nova Prospekt|"
+  },
+  {
+    "name": "(NP) Breencast Security Station Health Station",
+    "region": "Nova Prospekt",
+    "category": [
+      "Nova Prospekt"
+    ],
+    "requires": "|Nova Prospekt|"
+  },
+  {
+    "name": "(NP) Breencast Security Station Suit Charger",
+    "region": "Nova Prospekt",
+    "category": [
+      "Nova Prospekt"
+    ],
+    "requires": "|Nova Prospekt|"
+  },
+  {
+    "name": "(NP) Glitched Secuirty Camera Room Health Station",
+    "region": "Nova Prospekt",
+    "category": [
+      "Nova Prospekt"
+    ],
+    "requires": "|Nova Prospekt|"
+  },
+  {
+    "name": "(NP) Laundry Room Lambda Cache",
+    "region": "Nova Prospekt",
+    "category": [
+      "Nova Prospekt"
+    ],
+    "requires": "|Nova Prospekt|"
+  },
+  {
+    "name": "(NP) Laundry Room Health Station",
+    "region": "Nova Prospekt",
+    "category": [
+      "Nova Prospekt"
+    ],
+    "requires": "|Nova Prospekt|"
+  },
+  {
+    "name": "(NP) Health Station Before Antlion Guard",
+    "region": "Nova Prospekt",
+    "category": [
+      "Nova Prospekt"
+    ],
+    "requires": "|Nova Prospekt|"
+  },
+  {
+    "name": "(NP) Suit Charger Before Antlion Guard",
+    "region": "Nova Prospekt",
+    "category": [
+      "Nova Prospekt"
+    ],
+    "requires": "|Nova Prospekt|"
+  },
+  {
+    "name": "(NP) Killed Antlion Guard (2)",
+    "region": "Nova Prospekt",
+    "category": [
+      "Nova Prospekt"
+    ],
+    "requires": "|Nova Prospekt|"
+  },
+  {
+    "name": "(NP) Enter Entanglement",
+    "region": "Nova Prospekt",
+    "category": [
+      "Nova Prospekt"
+    ],
+    "requires": "|Nova Prospekt|"
+  },
+  {
+    "name": "(E) Met With Eli",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Vending Machine Lambda Cache",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) First Wave Defense Section Health Station",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Survived FIrst Wave Defense Section",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Health Station Near Feigning Zombie",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Second Wave Defense Section Health Station",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Second Wave Defense Section Suit Charger",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Survived Second Wave Defense Section",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Health Station After Second Wave Defense Section",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Suit Charger After Second Wave Defense Section",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Health Station After Flare Ambush",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Final Holdout Health Station ",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Final Holdout Suit Charger",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Escaped Nova Prospekt",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Kleiner Shotgun Pickup",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Kleiner's Lab Suit Charger",
+    "region": "Anticitizen One",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(E) Entered Anticitizen One",
+    "region": "Entanglement",
+    "category": [
+      "Entanglement"
+    ],
+    "requires": "|Entanglement|"
+  },
+  {
+    "name": "(AO) Lambda Cache Near Level Entrance",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Exploding Barrel Lambda Cache",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Security Camera Station Health Station",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Turret Ambush Health Station",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Combine Blockade Health Station",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Office Building Suit Charger",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Office Building Health Station",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|",
+    "name": "(AO) Manhack Tunnel Lambda Cache",
+    "region": "Anticitizen One"
+  },
+  {
+    "name": "(AO) Survived Manhack Tunnel Holdout",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Survived Radioactive Sludge Room",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Lambda Cache Near Bridge",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Lambda Cache After Burning Building",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Infested Room Health Station",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Infested Room Suit Charger",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Health Station After Apartment Ambush",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Suit Charger After Apartment Ambush",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Fountain Holdout Health Station",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Fountain Holdout Suit Charger",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Survived Fountain Holdout",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Stairway Lambda Cache",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Poison Zombie Ambush Lambda Cache",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One| AND |Gravity Gun (HL2)|"
+  },
+  {
+    "name": "(AO) Pipe Area Lambda Cache",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Factory Platform Controls Health Station",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Factory Platform Controls Suit Charger",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Factory Lambda Cache",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(AO) Enter \"Follow Freeman!\"",
+    "region": "Anticitizen One",
+    "category": [
+      "Anticitizen One"
+    ],
+    "requires": "|Anticitizen One|"
+  },
+  {
+    "name": "(FF) Cleared Out Snipers",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Overwatch Nexus Exteior Building Health Station",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Health Station Past Force Field",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Generator 1 Health Station",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Generator 1 Suit Charger",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Tripwire Room Health Station",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Generator 2 Health Station",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Survived Ambush",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Generator 3 Health Station",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Nexus Rooftop Hallway Health Station",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Nexus Rooftop Hallway Suit Charger",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Rooftop Health Station",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Rooftop Suit Charger",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Shot Down Gunship",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Blown Open Building Health Station",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Final Lambda Cache",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Final Strider Section Health Station 1",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Final Strider Section Health Station 2 ",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Final Strider Section Suit Charger",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Survived Final Strider Standoff",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(FF) Enter Our Benefactors",
+    "region": "\"Follow Freeman!\"",
+    "category": [
+      "\"Follow Freeman!\""
+    ],
+    "requires": "|\"Follow Freeman!\"|"
+  },
+  {
+    "name": "(OB) Acquired Super Gravity Gun",
+    "region": "Our Benefactors",
+    "category": [
+      "Our Benefactors"
+    ],
+    "requires": "|Our Benefactors|"
+  },
+  {
+    "name": "(OB) First Breencast Suit Charger",
+    "region": "Our Benefactors",
+    "category": [
+      "Our Benefactors"
+    ],
+    "requires": "|Our Benefactors|"
+  },
+  {
+    "name": "(OB) Suit Charger Near Energy Balls",
+    "region": "Our Benefactors",
+    "category": [
+      "Our Benefactors"
+    ],
+    "requires": "|Our Benefactors|"
+  },
+  {
+    "name": "(OB) Suit Charger Near Hallway Light",
+    "region": "Our Benefactors",
+    "category": [
+      "Our Benefactors"
+    ],
+    "requires": "|Our Benefactors|"
+  },
+  {
+    "name": "(OB) Elevator Area Suit Charger",
+    "region": "Our Benefactors",
+    "category": [
+      "Our Benefactors"
+    ],
+    "requires": "|Our Benefactors|"
+  },
+  {
+    "name": "(OB) Suit Charger After Elevator",
+    "region": "Our Benefactors",
+    "category": [
+      "Our Benefactors"
+    ],
+    "requires": "|Our Benefactors|"
+  },
+  {
+    "name": "(OB) Suit Charger Before Strider Fight",
+    "region": "Our Benefactors",
+    "category": [
+      "Our Benefactors"
+    ],
+    "requires": "|Our Benefactors|"
+  },
+  {
+    "name": "(OB) Took Down Strider",
+    "region": "Our Benefactors",
+    "category": [
+      "Our Benefactors"
+    ],
+    "requires": "|Our Benefactors|"
+  },
+  {
+    "name": "(OB) Suit Charger Before Final Ascent",
+    "region": "Our Benefactors",
+    "category": [
+      "Our Benefactors"
+    ],
+    "requires": "|Our Benefactors|"
+  },
+  {
+    "name": "(OB) Entered Dark Energy",
+    "region": "Our Benefactors",
+    "category": [
+      "Our Benefactors"
+    ],
+    "requires": "|Our Benefactors|"
+  },
+  {
+    "name": "(DE) Suit Charger Before Breen Fight",
+    "region": "Dark Energy",
+    "category": [
+      "Dark Energy"
+    ],
+    "requires": "|Dark Energy|"
+  },
+  {
+    "name": "(DE) Level 2 Health Charger",
+    "region": "Dark Energy",
+    "category": [
+      "Dark Energy"
+    ],
+    "requires": "|Dark Energy|"
+  },
+  {
+    "name": "(DE) Kill Dr. Breen",
+    "region": "Dark Energy",
+    "victory": true,
+    "category": [
+      "Dark Energy",
+      "Victory"
+    ],
+    "requires": "|Dark Energy|"
+  },
+  {
+    "name": "(UA) Gravity Gun Pickup",
+    "region": "Undue Alarm",
+    "category": [
+      "Undue Alarm"
+    ],
+    "requires": "|Undue Alarm|",
+    "place_item": [
+      "Gravity Gun (EP1)"
+    ]
+  },
+  {
+    "name": "(UA) Re-Enter Citadel",
+    "region": "Undue Alarm",
+    "category": [
+      "Undue Alarm"
+    ],
+    "requires": "|Undue Alarm|"
+  },
+  {
+    "name": "(UA) Rollermine Area Suit Charger",
+    "region": "Undue Alarm",
+    "category": [
+      "Undue Alarm"
+    ],
+    "requires": "|Undue Alarm|"
+  },
+  {
+    "name": "(UA) Survived Sprint Tutorial",
+    "region": "Undue Alarm",
+    "category": [
+      "Undue Alarm"
+    ],
+    "requires": "|Undue Alarm|"
+  },
+  {
+    "name": "(UA) Re-Acqire Super Gravity Gun",
+    "region": "Undue Alarm",
+    "category": [
+      "Undue Alarm"
+    ],
+    "requires": "|Undue Alarm|"
+  },
+  {
+    "name": "(UA) Suit Charger Before Ball Puzzel",
+    "region": "Undue Alarm",
+    "category": [
+      "Undue Alarm"
+    ],
+    "requires": "|Undue Alarm|"
+  },
+  {
+    "name": "(UA) Suit Charger Before Elevator Section",
+    "region": "Undue Alarm",
+    "category": [
+      "Undue Alarm"
+    ],
+    "requires": "|Undue Alarm|"
+  },
+  {
+    "name": "(UA) Enter Citadel Core Reactor",
+    "region": "Undue Alarm",
+    "category": [
+      "Undue Alarm"
+    ],
+    "requires": "|Undue Alarm|"
+  },
+  {
+    "name": "(UA) Suit Charger Before Reactor Core",
+    "region": "Direct Intervention",
+    "category": [
+      "Undue Alarm"
+    ],
+    "requires": "|Undue Alarm|"
+  },
+  {
+    "name": "(DI) Suit Charger Before Core Elevator",
+    "region": "Direct Intervention",
+    "category": [
+      "Direct Intervention"
+    ],
+    "requires": "|Direct Intervention|"
+  },
+  {
+    "name": "(DI) Suit Charger Near First Containment Field",
+    "region": "Direct Intervention",
+    "category": [
+      "Direct Intervention"
+    ],
+    "requires": "|Direct Intervention|"
+  },
+  {
+    "name": "(DI) Activated Containment Field (1)",
+    "region": "Direct Intervention",
+    "category": [
+      "Direct Intervention"
+    ],
+    "requires": "|Direct Intervention|"
+  },
+  {
+    "name": "(DI) Activated Containment Field (2)",
+    "region": "Direct Intervention",
+    "category": [
+      "Direct Intervention"
+    ],
+    "requires": "|Direct Intervention|"
+  },
+  {
+    "name": "(DI) Suit Charger After Containment Field 2",
+    "region": "Direct Intervention",
+    "category": [
+      "Direct Intervention"
+    ],
+    "requires": "|Direct Intervention|"
+  },
+  {
+    "name": "(DI) Activated Containment Field (3)",
+    "region": "Direct Intervention",
+    "category": [
+      "Direct Intervention"
+    ],
+    "requires": "|Direct Intervention|"
+  },
+  {
+    "name": "(DI) Health Station Before Razor Train",
+    "region": "Direct Intervention",
+    "category": [
+      "Direct Intervention"
+    ],
+    "requires": "|Direct Intervention|"
+  },
+  {
+    "name": "(DI) Escaped The Citadel",
+    "region": "Direct Intervention",
+    "category": [
+      "Direct Intervention"
+    ],
+    "requires": "|Direct Intervention|"
+  },
+  {
+    "name": "(L) Power Room Pistol Pickup",
+    "region": "Lowlife",
+    "category": [
+      "Lowlife"
+    ],
+    "requires": "|Lowlife| AND |Gravity Gun (EP1)|"
+  },
+  {
+    "name": "(L) Power Room Shotgun Pickup",
+    "region": "Lowlife",
+    "category": [
+      "Lowlife"
+    ],
+    "requires": "|Lowlife| AND |Gravity Gun (EP1)|"
+  },
+  {
+    "name": "(L) Turned On Power",
+    "region": "Lowlife",
+    "category": [
+      "Lowlife"
+    ],
+    "requires": "|Lowlife|"
+  },
+  {
+    "name": "(L) Listened To Alyx's Amazing Joke",
+    "region": "Lowlife",
+    "category": [
+      "Lowlife"
+    ],
+    "requires": "|Lowlife|"
+  },
+  {
+    "name": "(L) Escaped Parking Garage",
+    "region": "Lowlife",
+    "category": [
+      "Lowlife"
+    ],
+    "requires": "|Lowlife|"
+  },
+  {
+    "name": "(L) Escaped To The Surface",
+    "region": "Lowlife",
+    "category": [
+      "Lowlife"
+    ],
+    "requires": "|Lowlife|"
+  },
+  {
+    "name": "(UF) Found Spare Valve",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight|"
+  },
+  {
+    "name": "(UF) Turned Off Gas",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight|"
+  },
+  {
+    "name": "(UF) Took Out Sniper",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight|"
+  },
+  {
+    "name": "(UF) Security Room AR2 Pickup",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight|"
+  },
+  {
+    "name": "(UF) Security Room Health Station",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight|"
+  },
+  {
+    "name": "(UF) Security Room Suit Charger",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight|"
+  },
+  {
+    "name": "(UF) Blockade Health Station",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight|"
+  },
+  {
+    "name": "(UF) Finished Explosives Puzzle",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight|"
+  },
+  {
+    "name": "(UF) Combine Lockup Crossbow Pickup",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight|"
+  },
+  {
+    "name": "(UF) Enter The Rebel Hideout",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight|"
+  },
+  {
+    "name": "(UF) Recieved Crowbar From Barney",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight|"
+  },
+  {
+    "name": "(UF) Entered Hospital",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight|"
+  },
+  {
+    "name": "(UF) Attic RPG Pickup",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight|"
+  },
+  {
+    "name": "(UF) Shot Down Gunship",
+    "region": "Direct Intervention",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight| AND |RPG (EP1)|"
+  },
+  {
+    "name": "(UF) Escaped Electric Water Puzzle",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight| AND |RPG (EP1)|"
+  },
+  {
+    "name": "(UF) Disabled Turrets",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight| AND |RPG (EP1)|"
+  },
+  {
+    "name": "(UF) Enter Exit 17",
+    "region": "Urban Flight",
+    "category": [
+      "Urban Flight"
+    ],
+    "requires": "|Urban Flight| AND |RPG (EP1)|"
+  },
+  {
+    "name": "(E17) Waiting Area Health Station",
+    "region": "Exit 17",
+    "category": [
+      "Exit 17"
+    ],
+    "requires": "|Exit 17|"
+  },
+  {
+    "name": "(E17) Train Yard Health Station",
+    "region": "Exit 17",
+    "category": [
+      "Exit 17"
+    ],
+    "requires": "|Exit 17|"
+  },
+  {
+    "name": "(E17) Loading Area Revolver Pickup",
+    "region": "Exit 17",
+    "category": [
+      "Exit 17"
+    ],
+    "requires": "|Exit 17|"
+  },
+  {
+    "name": "(E17) Finished Evac",
+    "region": "Exit 17",
+    "category": [
+      "Exit 17"
+    ],
+    "requires": "|Exit 17|"
+  },
+  {
+    "name": "(E17) Strider Boss Fight Health Station (1)",
+    "region": "Exit 17",
+    "category": [
+      "Exit 17"
+    ],
+    "requires": "|Exit 17|"
+  },
+  {
+    "name": "(E17) Strider Boss Fight Health Station (2)",
+    "region": "Exit 17",
+    "category": [
+      "Exit 17"
+    ],
+    "requires": "|Exit 17|"
+  },
+  {
+    "name": "(E17) Defeat Strider",
+    "region": "Exit 17",
+    "category": [
+      "Exit 17"
+    ],
+    "requires": "|Exit 17| AND |RPG (EP1)|"
+  },
+  {
+    "name": "(E17) Escape City 17",
+    "region": "Exit 17",
+    "victory": true,
+    "category": [
+      "Exit 17",
+      "Victory"
+    ],
+    "requires": "|Exit 17| AND |RPG (EP1)|"
+  },
+  {
+    "name": "(TTWF) Gravity Gun Pickup",
+    "region": "To The White Forest",
+    "category": [
+      "To The White Forest"
+    ],
+    "requires": "|To The White Forest|",
+    "place_item": [
+      "Gravity Gun (EP2)"
+    ]
+  },
+  {
+    "name": "(TTWF) Made Contact With White Forest",
+    "region": "To The White Forest",
+    "category": [
+      "To The White Forest"
+    ],
+    "requires": "|To The White Forest|"
+  },
+  {
+    "name": "(TTWF) Alyx Injured",
+    "region": "To The White Forest",
+    "category": [
+      "To The White Forest"
+    ],
+    "requires": "|To The White Forest|"
+  },
+  {
+    "name": "(TTWF) Crowbar Pickup",
+    "region": "To The White Forest",
+    "category": [
+      "To The White Forest"
+    ],
+    "requires": "|To The White Forest|"
+  },
+  {
+    "name": "(TTWF) Pistol Pickup",
+    "region": "To The White Forest",
+    "category": [
+      "To The White Forest"
+    ],
+    "requires": "|To The White Forest|"
+  },
+  {
+    "name": "(TTWF) Shotgun Pickup Near Acid Workers",
+    "region": "To The White Forest",
+    "category": [
+      "To The White Forest"
+    ],
+    "requires": "|To The White Forest|"
+  },
+  {
+    "name": "(TTWF) Grenade Pickup Near Acid Workers",
+    "region": "To The White Forest",
+    "category": [
+      "To The White Forest"
+    ],
+    "requires": "|To The White Forest|"
+  },
+  {
+    "name": "(TTWF) Grub Cave Revolver Pickup",
+    "region": "To The White Forest",
+    "category": [
+      "To The White Forest"
+    ],
+    "requires": "|To The White Forest|"
+  },
+  {
+    "name": "(TTWF) Underwater Web Cache",
+    "region": "To The White Forest",
+    "category": [
+      "To The White Forest"
+    ],
+    "requires": "|To The White Forest|"
+  },
+  {
+    "name": "(TTWF) Enter This Vortal Coil",
+    "region": "To The White Forest",
+    "category": [
+      "To The White Forest"
+    ],
+    "requires": "|To The White Forest|"
+  },
+  {
+    "name": "(TVC) Antlion Defense Room SMG Pickup",
+    "region": "This Vortal Coil",
+    "category": [
+      "This Vortal Coil"
+    ],
+    "requires": "|This Vortal Coil|"
+  },
+  {
+    "name": "(TVC) Survived Antlion Defense Section",
+    "region": "This Vortal Coil",
+    "category": [
+      "This Vortal Coil"
+    ],
+    "requires": "|This Vortal Coil|"
+  },
+  {
+    "name": "(TVC) Web Cache After Wave Defense",
+    "region": "This Vortal Coil",
+    "category": [
+      "This Vortal Coil"
+    ],
+    "requires": "|This Vortal Coil|"
+  },
+  {
+    "name": "(TVC) Web Cache In Cave Areas",
+    "region": "This Vortal Coil",
+    "category": [
+      "This Vortal Coil"
+    ],
+    "requires": "|This Vortal Coil|"
+  },
+  {
+    "name": "(TVC) Web Cache After Antlion Workers",
+    "region": "This Vortal Coil",
+    "category": [
+      "This Vortal Coil"
+    ],
+    "requires": "|This Vortal Coil|"
+  },
+  {
+    "name": "(TVC) Grenade Web Cache",
+    "region": "This Vortal Coil",
+    "category": [
+      "This Vortal Coil"
+    ],
+    "requires": "|This Vortal Coil|"
+  },
+  {
+    "name": "(TVC) Escaped Nectar Guardian",
+    "region": "This Vortal Coil",
+    "category": [
+      "This Vortal Coil"
+    ],
+    "requires": "|This Vortal Coil|"
+  },
+  {
+    "name": "(TVC) Final Room Web Caches",
+    "region": "This Vortal Coil",
+    "category": [
+      "This Vortal Coil"
+    ],
+    "requires": "|This Vortal Coil|"
+  },
+  {
+    "name": "(TVC) Recieved Extract",
+    "region": "This Vortal Coil",
+    "category": [
+      "This Vortal Coil"
+    ],
+    "requires": "|This Vortal Coil|"
+  },
+  {
+    "name": "(TVC) G-Man Heart To Heart",
+    "region": "This Vortal Coil",
+    "category": [
+      "This Vortal Coil"
+    ],
+    "requires": "|This Vortal Coil|"
+  },
+  {
+    "name": "(TVC) Escape The Mines",
+    "region": "This Vortal Coil",
+    "category": [
+      "This Vortal Coil"
+    ],
+    "requires": "|This Vortal Coil|"
+  },
+  {
+    "name": "(FP) Killed Antlion Guardian",
+    "region": "Freeman Pontifex",
+    "category": [
+      "Freeman Pontifex"
+    ],
+    "requires": "|Freeman Pontifex|"
+  },
+  {
+    "name": "(FP) AR2 Pickup Near Infested Area Entrance",
+    "region": "Freeman Pontifex",
+    "category": [
+      "Freeman Pontifex"
+    ],
+    "requires": "|Freeman Pontifex|"
+  },
+  {
+    "name": "(FP) Infested Area AR2 On Box",
+    "region": "Freeman Pontifex",
+    "category": [
+      "Freeman Pontifex"
+    ],
+    "requires": "|Freeman Pontifex|"
+  },
+  {
+    "name": "(FP) Survived Infested Factory Zombie Ambush",
+    "region": "Freeman Pontifex",
+    "category": [
+      "Freeman Pontifex"
+    ],
+    "requires": "|Freeman Pontifex|"
+  },
+  {
+    "name": "(FP) Escaped Infested Area",
+    "region": "Freeman Pontifex",
+    "category": [
+      "Freeman Pontifex"
+    ],
+    "requires": "|Freeman Pontifex|"
+  },
+  {
+    "name": "(FP) Retrieved Car",
+    "region": "Freeman Pontifex",
+    "category": [
+      "Freeman Pontifex"
+    ],
+    "requires": "|Freeman Pontifex|"
+  },
+  {
+    "name": "(FP) Entered Riding Shotgun",
+    "region": "Freeman Pontifex",
+    "category": [
+      "Freeman Pontifex"
+    ],
+    "requires": "|Freeman Pontifex|"
+  },
+  {
+    "name": "(RS) Restored Transmitter Power",
+    "region": "Riding Shotgun",
+    "category": [
+      "Riding Shotgun"
+    ],
+    "requires": "|Riding Shotgun|"
+  },
+  {
+    "name": "(RS) Survived First Hunter Ambush",
+    "region": "Riding Shotgun",
+    "category": [
+      "Riding Shotgun"
+    ],
+    "requires": "|Riding Shotgun|"
+  },
+  {
+    "name": "(RS) Contact White Forest",
+    "region": "Riding Shotgun",
+    "category": [
+      "Riding Shotgun"
+    ],
+    "requires": "|Riding Shotgun|"
+  },
+  {
+    "name": "(RS) Encountered Shu'ulathoi",
+    "region": "Riding Shotgun",
+    "category": [
+      "Riding Shotgun"
+    ],
+    "requires": "|Riding Shotgun|"
+  },
+  {
+    "name": "(RS) Survived Barn Ambush",
+    "region": "Riding Shotgun",
+    "category": [
+      "Riding Shotgun"
+    ],
+    "requires": "|Riding Shotgun|"
+  },
+  {
+    "name": "(RS) Crossbow Pickup",
+    "region": "Riding Shotgun",
+    "category": [
+      "Riding Shotgun"
+    ],
+    "requires": "|Riding Shotgun|"
+  },
+  {
+    "name": "(RS) Took Down Hunter Chopper",
+    "region": "Riding Shotgun",
+    "category": [
+      "Riding Shotgun"
+    ],
+    "requires": "|Riding Shotgun|"
+  },
+  {
+    "name": "(RS) Enter Under The Radar",
+    "region": "Riding Shotgun",
+    "category": [
+      "Riding Shotgun"
+    ],
+    "requires": "|Riding Shotgun|"
+  },
+  {
+    "name": "(UTR) Destroyed Mechanic's Beer",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar|"
+  },
+  {
+    "name": "(UTR) Took Out Autogun",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar|"
+  },
+  {
+    "name": "(UTR) Abandoned Car Radar Cache",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar|"
+  },
+  {
+    "name": "(UTR) RPG Radar Cache Health Station",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar| AND |Grenades (EP2)|"
+  },
+  {
+    "name": "(UTR) RPG Cache RPG Pickup",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar| AND |Grenades (EP2)|"
+  },
+  {
+    "name": "(UTR) RPG Radar Cache",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar| AND |Grenades (EP2)|"
+  },
+  {
+    "name": "(UTR) False Bottom Radar Cache",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar|"
+  },
+  {
+    "name": "(UTR) Cave Radar Cache",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar|"
+  },
+  {
+    "name": "(UTR) Survived Inn Ambush",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar|"
+  },
+  {
+    "name": "(UTR) Inn Basement Crossbow Pickup",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar|"
+  },
+  {
+    "name": "(UTR) Inn Exterior Building Health Station",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar|"
+  },
+  {
+    "name": "(UTR) Inn Exterior Building Suit Charger",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar|"
+  },
+  {
+    "name": "(UTR) Disabled Combine Force Field",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar|"
+  },
+  {
+    "name": "(UTR) Rock Puzzle Radar Cache",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar|"
+  },
+  {
+    "name": "(UTR) Watched DOG Kill Strider",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar|"
+  },
+  {
+    "name": "(UTR) Finally Arrived At White Foresta",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar|"
+  },
+  {
+    "name": "(UTR) Enter Our Mutual Fiend",
+    "region": "Under The Radar",
+    "category": [
+      "Under The Radar"
+    ],
+    "requires": "|Under The Radar|"
+  },
+  {
+    "name": "(OMF) Reuinted With Eli",
+    "region": "Our Mutual Fiend",
+    "category": [
+      "Our Mutual Fiend"
+    ],
+    "requires": "|Our Mutual Fiend|"
+  },
+  {
+    "name": "(OMF) Met Dr. Magnusson",
+    "region": "Our Mutual Fiend",
+    "category": [
+      "Our Mutual Fiend"
+    ],
+    "requires": "|Our Mutual Fiend|"
+  },
+  {
+    "name": "(OMF) Survived Silo 2 Hunter Ambush",
+    "region": "Our Mutual Fiend",
+    "category": [
+      "Our Mutual Fiend"
+    ],
+    "requires": "|Our Mutual Fiend|"
+  },
+  {
+    "name": "(OMF) Sealed Silo 2 Hatch",
+    "region": "Our Mutual Fiend",
+    "category": [
+      "Our Mutual Fiend"
+    ],
+    "requires": "|Our Mutual Fiend|"
+  },
+  {
+    "name": "(OMF) Eli Conversation",
+    "region": "Our Mutual Fiend",
+    "category": [
+      "Our Mutual Fiend"
+    ],
+    "requires": "|Our Mutual Fiend|"
+  },
+  {
+    "name": "(OMF) Finished Magnusson Device Training",
+    "region": "Our Mutual Fiend",
+    "category": [
+      "Our Mutual Fiend"
+    ],
+    "requires": "|Our Mutual Fiend|"
+  },
+  {
+    "name": "(OMF) Survived Final Strider Attack",
+    "region": "Our Mutual Fiend",
+    "category": [
+      "Our Mutual Fiend"
+    ],
+    "requires": "|Our Mutual Fiend|"
+  },
+  {
+    "name": "(OMF) Entered T-Minus One",
+    "region": "Our Mutual Fiend",
+    "category": [
+      "Our Mutual Fiend"
+    ],
+    "requires": "|Our Mutual Fiend|"
+  },
+  {
+    "name": "(T-1) Launched Rocket!",
+    "region": "T-Minus One",
+    "victory": true,
+    "category": [
+      "T-Minus One",
+      "Victory"
+    ],
+    "requires": "|T-Minus One|"
+  }
+]
